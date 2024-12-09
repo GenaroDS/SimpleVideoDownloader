@@ -4,7 +4,7 @@ SimpleVideoDownloader is an application designed to download videos easily and e
 
 
   <img src="Program.png" alt="System Tray Menu Screenshot" style="border: none; margin: -10px 0 0 0; display: block;" />
-  <img src="Window.png" alt="Window Screenshot" style="border: none; margin: 0; display: block;" />
+  <img src="Window.png" alt="Window Screenshot" style="border: none; margin: 0; display: block; align:center" />
 
 
 
