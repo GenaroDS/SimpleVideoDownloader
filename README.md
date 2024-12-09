@@ -3,10 +3,9 @@
 SimpleVideoDownloader is an application designed to download videos easily and efficiently. Just right click on the system tray icon, press download video and paste your link.
 
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100vh; margin: 0;">
-  <img src="Program.png" alt="System Tray Menu Screenshot" style="border: none; margin-bottom: 20px;" />
-  <img src="Window.png" alt="Window Screenshot" style="border: none;" />
-</div>
+
+  <img src="Program.png" alt="System Tray Menu Screenshot" justify-content: center; align-items: center; " />
+  <img src="Window.png" alt="Window Screenshot" " />
 
 
 
