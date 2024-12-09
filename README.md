@@ -2,16 +2,11 @@
 
 SimpleVideoDownloader is an application designed to download videos easily and efficiently.
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="Program.png" alt="Program Screenshot" />
-    </td>
-    <td align="center">
-      <img src="Window.png" alt="Window Screenshot"/>
-    </td>
-  </tr>
-</table>
+<p align="center" style="display: flex; justify-content: center; gap: 40px; margin: 0;">
+  <img src="Program.png" alt="Program Screenshot" style="border: none; margin: 0; padding: 0;" />
+  <img src="Window.png" alt="Window Screenshot" style="border: none; margin: 0; padding: 0;" />
+</p>
+
 
 ---
 
