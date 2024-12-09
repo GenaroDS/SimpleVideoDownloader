@@ -1,9 +1,9 @@
 # **SimpleVideoDownloader**
 
-SimpleVideoDownloader is an application designed to download videos easily and efficiently.
+SimpleVideoDownloader is an application designed to download videos easily and efficiently. Just rif
 
 
-  <img src="Program.png" alt="Program Screenshot" style="border: none; margin: 0;" />
+  <img src="Program.png" alt="Program Screenshot" style="border: none; align:center; margin: 0;" />
   <img src="Window.png" alt="Window Screenshot" style="border: none;  margin: 0;" />
 
 
