@@ -2,15 +2,21 @@
 
 SimpleVideoDownloader is an application designed to download videos easily and efficiently.
 
-<p align="center">
-  <img src="Program.png" alt="Program Screenshot" />
-  <img src="Window.png" alt="Window Screenshot" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="Program.png" alt="Program Screenshot" />
+    </td>
+    <td align="center">
+      <img src="Window.png" alt="Window Screenshot"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## **Installation**
-1. Download the .exe from the [Releases](https://github.com/GenaroDS/SimpleVideoDownloader/releases/download/exe) section.
+1. Download the .exe from the [Releases](https://github.com/GenaroDS/SimpleVideoDownloader/releases) section.
 2. Run `SimpleVideoDownloader.exe`. 
    - Note: The first time you run the application, it might take a moment to initialize.
 
