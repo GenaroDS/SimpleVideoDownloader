@@ -8,8 +8,6 @@ SimpleVideoDownloader is an application designed to download videos easily and e
 </p>
 
 
-
-
 ---
 
 ## **Installation**
@@ -20,10 +18,8 @@ SimpleVideoDownloader is an application designed to download videos easily and e
 ---
 
 ## **Features**
-- Download videos in MP4 format.
-- Extract audio in MP3 format.
-- User-friendly and simple interface.
-- Supports multiple resolutions and qualities.
+- Download videos in MP4 format in various qualities.
+- Extract audio from videos in MP3 format.
 
 ---
 
